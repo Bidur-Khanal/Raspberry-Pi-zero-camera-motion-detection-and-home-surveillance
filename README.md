@@ -4,4 +4,4 @@ Contains home security/automation modules for motion detection and temperature a
 The package keeps the log of motion detection and the temperature. It also has SMS alert features.
 This repository contains the scripts for the server side only (Raspberry Pi). The client need to connect the specified port through TCP to communicate, receive data  and command the raspberrry.
 
-*Note:* This script is written for raspberry pi only, that acts as a server. A separate client side program is required to communicate and excess security/automation modules.
+**Note:* This script is written for raspberry pi only, that acts as a server. A separate client side program is required to communicate and excess security/automation modules.*
